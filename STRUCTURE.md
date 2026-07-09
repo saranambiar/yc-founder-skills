@@ -52,7 +52,7 @@ founder-skills/
         ├── operations/
         │   ├── execution-altman.md                  ← BUILT (Lecture 2, Altman — execution half)
         │   ├── how-to-operate-rabois.md             ← BUILT (Lecture 14, Rabois)
-        │   ├── how-to-manage-horowitz.md            ← TODO (Lecture 15, Horowitz)
+        │   ├── how-to-manage-horowitz.md            ← BUILT (Lecture 15, Horowitz)
         │   ├── legal-finance-hr-levy-nathoo.md      ← TODO (Lecture 18, Levy/Nathoo)
         │   └── later-stage-altman.md                ← TODO (Lecture 20, Altman)
         └── user-research/
@@ -121,7 +121,7 @@ these split into two files because each covers two distinct topics, the same way
 | 12 | Aaron Levie | market-strategy/ | building-for-the-enterprise-levie.md | BUILT |
 | 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | BUILT |
 | 14 | Keith Rabois | operations/ | how-to-operate-rabois.md | BUILT |
-| 15 | Ben Horowitz | operations/ | how-to-manage-horowitz.md | TODO |
+| 15 | Ben Horowitz | operations/ | how-to-manage-horowitz.md | BUILT |
 | 16 | Emmett Shear | user-research/ | user-interviews-shear.md | BUILT |
 | 17 | Hosain Rahman | — | SKIP for v1 (hardware-specific) | SKIP |
 | 18 | Levy/Nathoo | operations/ | legal-finance-hr-levy-nathoo.md | TODO |
