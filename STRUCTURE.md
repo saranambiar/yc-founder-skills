@@ -26,7 +26,7 @@ founder-skills/
     └── yc-how-to-start-a-startup/
         ├── market-strategy/
         │   ├── competition-monopoly-thiel.md        ← BUILT (Lecture 5, Thiel)
-        │   └── enterprise-disruption-levie.md       ← TODO (Lecture 12, Levie)
+        │   └── building-for-the-enterprise-levie.md  ← BUILT (Lecture 12, Levie)
         ├── ideas/
         │   ├── idea-and-product-altman.md           ← BUILT (Lecture 1, Altman — idea/product half)
         │   ├── why-start-a-startup-moskovitz.md      ← BUILT (Lecture 1, Moskovitz — motivation half)
@@ -118,7 +118,7 @@ these split into two files because each covers two distinct topics, the same way
 | 9 | Andreessen/Conway/Conrad | fundraising/ | what-investors-want-andreessen-conway.md | BUILT |
 | 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | BUILT |
 | 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | BUILT |
-| 12 | Aaron Levie | market-strategy/ | enterprise-disruption-levie.md | TODO |
+| 12 | Aaron Levie | market-strategy/ | building-for-the-enterprise-levie.md | BUILT |
 | 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | TODO |
 | 14 | Keith Rabois | operations/ | how-to-operate-rabois.md | TODO |
 | 15 | Ben Horowitz | operations/ | how-to-manage-horowitz.md | TODO |
@@ -131,7 +131,10 @@ these split into two files because each covers two distinct topics, the same way
 
 Note: Lecture 1 (Altman/Moskovitz), Lecture 2 (Altman), Lecture 4 (Cheung), Lecture 8
 (Williams/Tang split from Kan), and Lecture 19 (Bosmeny) each produce two files because they
-cover two distinct topics.
+cover two distinct topics. Lecture 12's file was renamed from the planned
+`enterprise-disruption-levie.md` to `building-for-the-enterprise-levie.md` — the real lecture
+title and content is "Building for the Enterprise" (structural shifts + tactical GTM patterns
+for enterprise software), not primarily a disruption-theory talk.
 
 ---
 
