@@ -1,0 +1,7 @@
+# founder-skills
+
+Structured, source-grounded skill files distilled from founder knowledge sources (starting
+with YC's CS183B "How to Start a Startup," Stanford 2014). Each line below is one skill file
+and when to load it. Read `NORTH_STAR.md` for the standard every file is held to.
+
+/skills/yc-how-to-start-a-startup/market-strategy/competition-monopoly-thiel.md — load when a founder is deciding whether to enter a market, evaluating defensibility, choosing between ideas, prioritizing a roadmap, or asking why a competitor couldn't just copy them.
