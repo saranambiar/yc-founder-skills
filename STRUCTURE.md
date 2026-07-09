@@ -32,10 +32,11 @@ founder-skills/
         │   ├── why-start-a-startup-moskovitz.md      ← BUILT (Lecture 1, Moskovitz — motivation half)
         │   └── counterintuitive-startups-graham.md  ← BUILT (Lecture 3, Graham)
         ├── product/
-        │   ├── mvp-and-users-cheung.md              ← TODO (Lecture 4, Cheung)
+        │   ├── mvp-and-users-cheung.md              ← BUILT (Lecture 4, Cheung — MVP/first-users half)
         │   └── building-for-love-hale.md            ← BUILT (Lecture 7, Hale)
         ├── growth/
         │   ├── growth-mechanics-schultz.md          ← TODO (Lecture 6, Schultz)
+        │   ├── growth-mechanics-cheung.md           ← BUILT (Lecture 4, Cheung — growth/pivot half)
         │   ├── unscalable-things-williams-tang.md   ← BUILT (Lecture 8, Williams/Tang — early growth half)
         │   └── getting-press-kan.md                 ← BUILT (Lecture 8, Kan — press half)
         ├── hiring/
@@ -55,7 +56,6 @@ founder-skills/
         │   ├── legal-finance-hr-levy-nathoo.md      ← TODO (Lecture 18, Levy/Nathoo)
         │   └── later-stage-altman.md                ← TODO (Lecture 20, Altman)
         └── user-research/
-            ├── talking-to-users-cheung.md           ← TODO (Lecture 4 — user research portion)
             └── user-interviews-shear.md             ← BUILT (Lecture 16, Shear)
 ```
 
@@ -95,8 +95,11 @@ Verified against actual lecture titles and speakers on 2026-07-09 (see `lessons/
 was wrong before and why). Lecture 2 was previously mislabeled "early hiring" — its real
 title is "Team and Execution." Lecture 1's file name previously said "execution," which is
 actually Lecture 2's topic — Lecture 1 is idea evaluation/early product (Altman) plus why to
-start a startup at all (Moskovitz). Both split into two files because each covers two
-distinct topics, the same way Lecture 4 and Lecture 19 do.
+start a startup at all (Moskovitz). Lecture 4's second file was planned as "user research,"
+but that content is a short subsection within the MVP-building half, not substantial enough
+alone (and already well covered by Shear's Lecture 16) — its real second half is growth
+mechanics and the pivot decision, so it's `growth/growth-mechanics-cheung.md` instead. All of
+these split into two files because each covers two distinct topics, the same way Lecture 19 does.
 
 | Lecture | Speaker(s) | Topic folder | File name | Status |
 |---------|-----------|--------------|-----------|--------|
@@ -105,8 +108,8 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 2 | Sam Altman | hiring/ | team-and-cofounders-altman.md | BUILT |
 | 2 | Sam Altman | operations/ | execution-altman.md | BUILT |
 | 3 | Paul Graham | ideas/ | counterintuitive-startups-graham.md | BUILT |
-| 4 | Adora Cheung | product/ | mvp-and-users-cheung.md | TODO |
-| 4 | Adora Cheung | user-research/ | talking-to-users-cheung.md | TODO |
+| 4 | Adora Cheung | product/ | mvp-and-users-cheung.md | BUILT |
+| 4 | Adora Cheung | growth/ | growth-mechanics-cheung.md | BUILT |
 | 5 | Peter Thiel | market-strategy/ | competition-monopoly-thiel.md | BUILT |
 | 6 | Alex Schultz | growth/ | growth-mechanics-schultz.md | TODO |
 | 7 | Kevin Hale | product/ | building-for-love-hale.md | BUILT |
