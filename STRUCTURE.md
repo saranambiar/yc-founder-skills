@@ -35,7 +35,7 @@ founder-skills/
         │   ├── mvp-and-users-cheung.md              ← BUILT (Lecture 4, Cheung — MVP/first-users half)
         │   └── building-for-love-hale.md            ← BUILT (Lecture 7, Hale)
         ├── growth/
-        │   ├── growth-mechanics-schultz.md          ← TODO (Lecture 6, Schultz)
+        │   ├── growth-mechanics-schultz.md          ← BUILT (Lecture 6, Schultz)
         │   ├── growth-mechanics-cheung.md           ← BUILT (Lecture 4, Cheung — growth/pivot half)
         │   ├── unscalable-things-williams-tang.md   ← BUILT (Lecture 8, Williams/Tang — early growth half)
         │   └── getting-press-kan.md                 ← BUILT (Lecture 8, Kan — press half)
@@ -111,7 +111,7 @@ these split into two files because each covers two distinct topics, the same way
 | 4 | Adora Cheung | product/ | mvp-and-users-cheung.md | BUILT |
 | 4 | Adora Cheung | growth/ | growth-mechanics-cheung.md | BUILT |
 | 5 | Peter Thiel | market-strategy/ | competition-monopoly-thiel.md | BUILT |
-| 6 | Alex Schultz | growth/ | growth-mechanics-schultz.md | TODO |
+| 6 | Alex Schultz | growth/ | growth-mechanics-schultz.md | BUILT |
 | 7 | Kevin Hale | product/ | building-for-love-hale.md | BUILT |
 | 8 | Williams/Tang | growth/ | unscalable-things-williams-tang.md | BUILT |
 | 8 | Justin Kan | growth/ | getting-press-kan.md | BUILT |
