@@ -55,7 +55,7 @@ founder-skills/
         │   └── later-stage-altman.md                ← TODO (Lecture 20, Altman)
         └── user-research/
             ├── talking-to-users-cheung.md           ← TODO (Lecture 4 — user research portion)
-            └── user-interviews-shear.md             ← TODO (Lecture 16, Shear)
+            └── user-interviews-shear.md             ← BUILT (Lecture 16, Shear)
 ```
 
 ---
@@ -117,7 +117,7 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | TODO |
 | 14 | Keith Rabois | operations/ | how-to-operate-rabois.md | TODO |
 | 15 | Ben Horowitz | operations/ | how-to-manage-horowitz.md | TODO |
-| 16 | Emmett Shear | user-research/ | user-interviews-shear.md | TODO |
+| 16 | Emmett Shear | user-research/ | user-interviews-shear.md | BUILT |
 | 17 | Hosain Rahman | — | SKIP for v1 (hardware-specific) | SKIP |
 | 18 | Levy/Nathoo | operations/ | legal-finance-hr-levy-nathoo.md | TODO |
 | 19 | Seibel/Bosmeny/Caldwell | fundraising/ | pitching-seibel-bosmeny-caldwell.md | TODO |
@@ -138,7 +138,7 @@ Build in this order — most live for an early-stage founder first:
 3. `ideas/idea-and-product-altman.md` + `ideas/why-start-a-startup-moskovitz.md` — **DONE**
 4. `fundraising/what-investors-want-andreessen-conway.md` — **DONE**
 5. `product/building-for-love-hale.md` — **DONE**
-6. `user-research/user-interviews-shear.md` — most tactical, immediately usable
+6. `user-research/user-interviews-shear.md` — **DONE**
 7. `hiring/culture-chesky-lin.md` — relevant once you're hiring beyond 5 people
 8. `growth/unscalable-things-williams-kan-tang.md` — early traction phase
 9. Everything else in order
