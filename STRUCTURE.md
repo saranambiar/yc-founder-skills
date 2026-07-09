@@ -30,7 +30,7 @@ founder-skills/
         ├── ideas/
         │   ├── idea-and-product-altman.md           ← BUILT (Lecture 1, Altman — idea/product half)
         │   ├── why-start-a-startup-moskovitz.md      ← BUILT (Lecture 1, Moskovitz — motivation half)
-        │   └── counterintuitive-startups-graham.md  ← TODO (Lecture 3, Graham)
+        │   └── counterintuitive-startups-graham.md  ← BUILT (Lecture 3, Graham)
         ├── product/
         │   ├── mvp-and-users-cheung.md              ← TODO (Lecture 4, Cheung)
         │   └── building-for-love-hale.md            ← BUILT (Lecture 7, Hale)
@@ -104,7 +104,7 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 1 | Dustin Moskovitz | ideas/ | why-start-a-startup-moskovitz.md | BUILT |
 | 2 | Sam Altman | hiring/ | team-and-cofounders-altman.md | BUILT |
 | 2 | Sam Altman | operations/ | execution-altman.md | BUILT |
-| 3 | Paul Graham | ideas/ | counterintuitive-startups-graham.md | TODO |
+| 3 | Paul Graham | ideas/ | counterintuitive-startups-graham.md | BUILT |
 | 4 | Adora Cheung | product/ | mvp-and-users-cheung.md | TODO |
 | 4 | Adora Cheung | user-research/ | talking-to-users-cheung.md | TODO |
 | 5 | Peter Thiel | market-strategy/ | competition-monopoly-thiel.md | BUILT |

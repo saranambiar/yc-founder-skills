@@ -42,6 +42,13 @@ with open('transcripts/SLUG/SLUG-raw.txt', 'w') as f:
   with real punctuation and capitalization over raw lowercase auto-captions — it's faster to
   read and less likely to be misparsed. (Word counts should be close; if one is dramatically
   shorter, check it isn't a cut-down re-upload.)
+- **If `youtube-transcript-api` returns `IpBlocked`** (this happens after roughly 10 pulls in
+  one session), don't retry it repeatedly. Check whether
+  `github.com/Atarity/How-To-Start-A-Startup` has the lecture and pull the raw file directly
+  with `curl`/`wget` — e.g. `curl -s "https://raw.githubusercontent.com/Atarity/How-To-Start-A-Startup/master/<lecture-folder>/<file>.md"`.
+  **Do not use `WebFetch` for this** — it routes content through a summarizing model and
+  returns a paraphrase even when asked for verbatim text, which breaks the exact-quote
+  requirement below. See `lessons/transcript-fallback-when-youtube-is-blocked.md`.
 - **Read the entire transcript before writing anything** — not a skim, not just the first
   section. Both lectures built so far had their most decision-relevant material in places
   that wouldn't have survived a skim: the Q&A at the end of Thiel's lecture (Palantir example,
