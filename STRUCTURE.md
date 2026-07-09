@@ -51,7 +51,7 @@ founder-skills/
         │   └── early-sales-bosmeny.md               ← TODO (Lecture 19, Bosmeny — sales portion)
         ├── operations/
         │   ├── execution-altman.md                  ← BUILT (Lecture 2, Altman — execution half)
-        │   ├── how-to-operate-rabois.md             ← TODO (Lecture 14, Rabois)
+        │   ├── how-to-operate-rabois.md             ← BUILT (Lecture 14, Rabois)
         │   ├── how-to-manage-horowitz.md            ← TODO (Lecture 15, Horowitz)
         │   ├── legal-finance-hr-levy-nathoo.md      ← TODO (Lecture 18, Levy/Nathoo)
         │   └── later-stage-altman.md                ← TODO (Lecture 20, Altman)
@@ -120,7 +120,7 @@ these split into two files because each covers two distinct topics, the same way
 | 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | BUILT |
 | 12 | Aaron Levie | market-strategy/ | building-for-the-enterprise-levie.md | BUILT |
 | 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | BUILT |
-| 14 | Keith Rabois | operations/ | how-to-operate-rabois.md | TODO |
+| 14 | Keith Rabois | operations/ | how-to-operate-rabois.md | BUILT |
 | 15 | Ben Horowitz | operations/ | how-to-manage-horowitz.md | TODO |
 | 16 | Emmett Shear | user-research/ | user-interviews-shear.md | BUILT |
 | 17 | Hosain Rahman | — | SKIP for v1 (hardware-specific) | SKIP |
