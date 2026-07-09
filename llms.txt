@@ -5,3 +5,5 @@ with YC's CS183B "How to Start a Startup," Stanford 2014). Each line below is on
 and when to load it. Read `NORTH_STAR.md` for the standard every file is held to.
 
 /skills/yc-how-to-start-a-startup/market-strategy/competition-monopoly-thiel.md — load when a founder is deciding whether to enter a market, evaluating defensibility, choosing between ideas, prioritizing a roadmap, or asking why a competitor couldn't just copy them.
+/skills/yc-how-to-start-a-startup/hiring/team-and-cofounders-altman.md — load when a founder is choosing a cofounder, evaluating an early hire, setting equity or vesting, or deciding whether to fire someone who isn't working out.
+/skills/yc-how-to-start-a-startup/operations/execution-altman.md — load when a founder can't decide what to focus on, growth has stalled, a competitor's press is demoralizing the team, or speed and quality feel like a tradeoff.

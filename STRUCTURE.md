@@ -1,6 +1,7 @@
 # founder-skills — Repo Structure & Conventions
 
-Always read this before creating, moving, or renaming any skill file.
+Always read this before creating, moving, or renaming any skill file. Read `NORTH_STAR.md`
+first — every convention here is in service of that standard.
 
 ---
 
@@ -12,9 +13,9 @@ founder-skills/
 ├── STRUCTURE.md                       ← this file
 ├── README.md                          ← user-facing intro and usage guide
 ├── llms.txt                           ← agent discovery index (one line per skill)
+├── NORTH_STAR.md                       ← the standard every skill file is judged against
 ├── EXTRACTION_RUBRIC.md               ← how to turn a transcript into a skill file
 ├── skill-rubrics.md                   ← quality standards for evaluating skill output
-├── skill-changes.md                   ← pending changes log (don't apply until reviewed)
 ├── plans/
 │   └── product-skill-pipeline.md     ← execution plan for building skills
 ├── scripts/
@@ -36,7 +37,7 @@ founder-skills/
         │   ├── growth-mechanics-schultz.md          ← TODO (Lecture 6, Schultz)
         │   └── unscalable-things-williams-kan-tang.md ← TODO (Lecture 8, Williams/Kan/Tang)
         ├── hiring/
-        │   ├── early-hiring-altman.md               ← TODO (Lecture 2, Altman)
+        │   ├── team-and-cofounders-altman.md        ← BUILT (Lecture 2, Altman — team/hiring half)
         │   ├── culture-chesky-lin.md                ← TODO (Lecture 10, Chesky/Lin)
         │   ├── scaling-teams-collison-silbermann.md ← TODO (Lecture 11, Collison/Silbermann)
         │   └── great-founder-hoffman.md             ← TODO (Lecture 13, Hoffman)
@@ -46,6 +47,7 @@ founder-skills/
         ├── sales/
         │   └── early-sales-bosmeny.md               ← TODO (Lecture 19, Bosmeny — sales portion)
         ├── operations/
+        │   ├── execution-altman.md                  ← BUILT (Lecture 2, Altman — execution half)
         │   ├── how-to-operate-rabois.md             ← TODO (Lecture 14, Rabois)
         │   ├── how-to-manage-horowitz.md            ← TODO (Lecture 15, Horowitz)
         │   ├── legal-finance-hr-levy-nathoo.md      ← TODO (Lecture 18, Levy/Nathoo)
@@ -87,10 +89,16 @@ Exception: panel lectures with 2-3 speakers on the same topic (e.g. Lecture 10: 
 
 ## Lecture → file mapping
 
+Verified against actual lecture titles and speakers on 2026-07-09 (see `lessons/` for what
+was wrong before and why). Lecture 2 was previously mislabeled "early hiring" — its real
+title is "Team and Execution," and it splits into two files because it covers two distinct
+topics, the same way Lecture 4 and Lecture 19 do.
+
 | Lecture | Speaker(s) | Topic folder | File name | Status |
 |---------|-----------|--------------|-----------|--------|
 | 1 | Sam Altman, Dustin Moskovitz | ideas/ | ideas-and-execution-altman.md | TODO |
-| 2 | Sam Altman | hiring/ | early-hiring-altman.md | TODO |
+| 2 | Sam Altman | hiring/ | team-and-cofounders-altman.md | BUILT |
+| 2 | Sam Altman | operations/ | execution-altman.md | BUILT |
 | 3 | Paul Graham | ideas/ | counterintuitive-startups-graham.md | TODO |
 | 4 | Adora Cheung | product/ | mvp-and-users-cheung.md | TODO |
 | 4 | Adora Cheung | user-research/ | talking-to-users-cheung.md | TODO |
@@ -112,7 +120,7 @@ Exception: panel lectures with 2-3 speakers on the same topic (e.g. Lecture 10: 
 | 19 | Tyler Bosmeny | sales/ | early-sales-bosmeny.md | TODO |
 | 20 | Sam Altman | operations/ | later-stage-altman.md | TODO |
 
-Note: Lecture 4 (Cheung) and Lecture 19 (Bosmeny) each produce two files because they cover two distinct topics.
+Note: Lecture 2 (Altman), Lecture 4 (Cheung), and Lecture 19 (Bosmeny) each produce two files because they cover two distinct topics.
 
 ---
 
@@ -121,7 +129,7 @@ Note: Lecture 4 (Cheung) and Lecture 19 (Bosmeny) each produce two files because
 Build in this order — most live for an early-stage founder first:
 
 1. `market-strategy/competition-monopoly-thiel.md` — **DONE**
-2. `hiring/early-hiring-altman.md` — needed immediately by early founders
+2. `hiring/team-and-cofounders-altman.md` + `operations/execution-altman.md` — **DONE**
 3. `ideas/ideas-and-execution-altman.md` — everyone needs this first
 4. `fundraising/what-investors-want-andreessen-conway.md` — closest to investor conversations
 5. `product/building-for-love-hale.md` — feeds directly into what you're building
@@ -129,6 +137,10 @@ Build in this order — most live for an early-stage founder first:
 7. `hiring/culture-chesky-lin.md` — relevant once you're hiring beyond 5 people
 8. `growth/unscalable-things-williams-kan-tang.md` — early traction phase
 9. Everything else in order
+
+**Before pulling a transcript for the next lecture:** verify its actual title, speakers, and
+content against a real source (YouTube, startupclass.samaltman.com) — don't trust this table
+blindly. It was wrong once already for Lecture 2. See `lessons/verify-lecture-mapping-before-building.md`.
 
 ---
 
@@ -208,6 +220,6 @@ Don't commit raw transcripts to the repo — they're working files, not publishe
 
 ## Pending work
 
-See `plans/product-skill-pipeline.md` for the current execution plan.
-See `skill-changes.md` for pending changes to existing skill files.
+See `tasks/todo.md` for the current execution plan.
 See `skill-rubrics.md` for quality standards.
+See `lessons/` for what's been learned from building and testing skills so far.
