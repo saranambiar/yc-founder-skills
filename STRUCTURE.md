@@ -53,7 +53,7 @@ founder-skills/
         │   ├── execution-altman.md                  ← BUILT (Lecture 2, Altman — execution half)
         │   ├── how-to-operate-rabois.md             ← BUILT (Lecture 14, Rabois)
         │   ├── how-to-manage-horowitz.md            ← BUILT (Lecture 15, Horowitz)
-        │   ├── legal-finance-hr-levy-nathoo.md      ← TODO (Lecture 18, Levy/Nathoo)
+        │   ├── legal-finance-hr-levy-nathoo.md      ← BUILT (Lecture 18, Nathoo/Levy)
         │   └── later-stage-altman.md                ← TODO (Lecture 20, Altman)
         └── user-research/
             └── user-interviews-shear.md             ← BUILT (Lecture 16, Shear)
@@ -124,7 +124,7 @@ these split into two files because each covers two distinct topics, the same way
 | 15 | Ben Horowitz | operations/ | how-to-manage-horowitz.md | BUILT |
 | 16 | Emmett Shear | user-research/ | user-interviews-shear.md | BUILT |
 | 17 | Hosain Rahman | — | SKIP for v1 (hardware-specific) | SKIP |
-| 18 | Levy/Nathoo | operations/ | legal-finance-hr-levy-nathoo.md | TODO |
+| 18 | Nathoo/Levy | operations/ | legal-finance-hr-levy-nathoo.md | BUILT |
 | 19 | Seibel/Bosmeny/Caldwell | fundraising/ | pitching-seibel-bosmeny-caldwell.md | TODO |
 | 19 | Tyler Bosmeny | sales/ | early-sales-bosmeny.md | TODO |
 | 20 | Sam Altman | operations/ | later-stage-altman.md | TODO |
