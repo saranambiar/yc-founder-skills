@@ -28,7 +28,8 @@ founder-skills/
         │   ├── competition-monopoly-thiel.md        ← BUILT (Lecture 5, Thiel)
         │   └── enterprise-disruption-levie.md       ← TODO (Lecture 12, Levie)
         ├── ideas/
-        │   ├── ideas-and-execution-altman.md        ← TODO (Lecture 1, Altman)
+        │   ├── idea-and-product-altman.md           ← BUILT (Lecture 1, Altman — idea/product half)
+        │   ├── why-start-a-startup-moskovitz.md      ← BUILT (Lecture 1, Moskovitz — motivation half)
         │   └── counterintuitive-startups-graham.md  ← TODO (Lecture 3, Graham)
         ├── product/
         │   ├── mvp-and-users-cheung.md              ← TODO (Lecture 4, Cheung)
@@ -91,12 +92,15 @@ Exception: panel lectures with 2-3 speakers on the same topic (e.g. Lecture 10: 
 
 Verified against actual lecture titles and speakers on 2026-07-09 (see `lessons/` for what
 was wrong before and why). Lecture 2 was previously mislabeled "early hiring" — its real
-title is "Team and Execution," and it splits into two files because it covers two distinct
-topics, the same way Lecture 4 and Lecture 19 do.
+title is "Team and Execution." Lecture 1's file name previously said "execution," which is
+actually Lecture 2's topic — Lecture 1 is idea evaluation/early product (Altman) plus why to
+start a startup at all (Moskovitz). Both split into two files because each covers two
+distinct topics, the same way Lecture 4 and Lecture 19 do.
 
 | Lecture | Speaker(s) | Topic folder | File name | Status |
 |---------|-----------|--------------|-----------|--------|
-| 1 | Sam Altman, Dustin Moskovitz | ideas/ | ideas-and-execution-altman.md | TODO |
+| 1 | Sam Altman | ideas/ | idea-and-product-altman.md | BUILT |
+| 1 | Dustin Moskovitz | ideas/ | why-start-a-startup-moskovitz.md | BUILT |
 | 2 | Sam Altman | hiring/ | team-and-cofounders-altman.md | BUILT |
 | 2 | Sam Altman | operations/ | execution-altman.md | BUILT |
 | 3 | Paul Graham | ideas/ | counterintuitive-startups-graham.md | TODO |
@@ -120,7 +124,8 @@ topics, the same way Lecture 4 and Lecture 19 do.
 | 19 | Tyler Bosmeny | sales/ | early-sales-bosmeny.md | TODO |
 | 20 | Sam Altman | operations/ | later-stage-altman.md | TODO |
 
-Note: Lecture 2 (Altman), Lecture 4 (Cheung), and Lecture 19 (Bosmeny) each produce two files because they cover two distinct topics.
+Note: Lecture 1 (Altman/Moskovitz), Lecture 2 (Altman), Lecture 4 (Cheung), and Lecture 19
+(Bosmeny) each produce two files because they cover two distinct topics.
 
 ---
 
@@ -130,7 +135,7 @@ Build in this order — most live for an early-stage founder first:
 
 1. `market-strategy/competition-monopoly-thiel.md` — **DONE**
 2. `hiring/team-and-cofounders-altman.md` + `operations/execution-altman.md` — **DONE**
-3. `ideas/ideas-and-execution-altman.md` — everyone needs this first
+3. `ideas/idea-and-product-altman.md` + `ideas/why-start-a-startup-moskovitz.md` — **DONE**
 4. `fundraising/what-investors-want-andreessen-conway.md` — closest to investor conversations
 5. `product/building-for-love-hale.md` — feeds directly into what you're building
 6. `user-research/user-interviews-shear.md` — most tactical, immediately usable
