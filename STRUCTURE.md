@@ -42,7 +42,7 @@ founder-skills/
         ├── hiring/
         │   ├── team-and-cofounders-altman.md        ← BUILT (Lecture 2, Altman — team/hiring half)
         │   ├── culture-chesky-lin.md                ← BUILT (Lecture 10, Chesky/Lin)
-        │   ├── scaling-teams-collison-silbermann.md ← TODO (Lecture 11, Collison/Silbermann)
+        │   ├── scaling-teams-collison-silbermann.md ← BUILT (Lecture 11, Collison/Silbermann)
         │   └── great-founder-hoffman.md             ← TODO (Lecture 13, Hoffman)
         ├── fundraising/
         │   ├── what-investors-want-andreessen-conway.md ← BUILT (Lecture 9, Andreessen/Conway/Conrad)
@@ -117,7 +117,7 @@ these split into two files because each covers two distinct topics, the same way
 | 8 | Justin Kan | growth/ | getting-press-kan.md | BUILT |
 | 9 | Andreessen/Conway/Conrad | fundraising/ | what-investors-want-andreessen-conway.md | BUILT |
 | 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | BUILT |
-| 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | TODO |
+| 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | BUILT |
 | 12 | Aaron Levie | market-strategy/ | enterprise-disruption-levie.md | TODO |
 | 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | TODO |
 | 14 | Keith Rabois | operations/ | how-to-operate-rabois.md | TODO |
