@@ -46,9 +46,9 @@ founder-skills/
         │   └── great-founder-hoffman.md             ← BUILT (Lecture 13, Hoffman)
         ├── fundraising/
         │   ├── what-investors-want-andreessen-conway.md ← BUILT (Lecture 9, Andreessen/Conway/Conrad)
-        │   └── pitching-seibel-bosmeny-caldwell.md  ← TODO (Lecture 19, Seibel/Bosmeny/Caldwell)
+        │   └── pitching-seibel-caldwell.md          ← BUILT (Lecture 19, Seibel/Caldwell/Younis — pitching half)
         ├── sales/
-        │   └── early-sales-bosmeny.md               ← TODO (Lecture 19, Bosmeny — sales portion)
+        │   └── early-sales-bosmeny.md               ← BUILT (Lecture 19, Bosmeny — sales half)
         ├── operations/
         │   ├── execution-altman.md                  ← BUILT (Lecture 2, Altman — execution half)
         │   ├── how-to-operate-rabois.md             ← BUILT (Lecture 14, Rabois)
@@ -125,16 +125,20 @@ these split into two files because each covers two distinct topics, the same way
 | 16 | Emmett Shear | user-research/ | user-interviews-shear.md | BUILT |
 | 17 | Hosain Rahman | — | SKIP for v1 (hardware-specific) | SKIP |
 | 18 | Nathoo/Levy | operations/ | legal-finance-hr-levy-nathoo.md | BUILT |
-| 19 | Seibel/Bosmeny/Caldwell | fundraising/ | pitching-seibel-bosmeny-caldwell.md | TODO |
-| 19 | Tyler Bosmeny | sales/ | early-sales-bosmeny.md | TODO |
+| 19 | Seibel/Caldwell/Younis | fundraising/ | pitching-seibel-caldwell.md | BUILT |
+| 19 | Tyler Bosmeny | sales/ | early-sales-bosmeny.md | BUILT |
 | 20 | Sam Altman | operations/ | later-stage-altman.md | TODO |
 
 Note: Lecture 1 (Altman/Moskovitz), Lecture 2 (Altman), Lecture 4 (Cheung), Lecture 8
-(Williams/Tang split from Kan), and Lecture 19 (Bosmeny) each produce two files because they
-cover two distinct topics. Lecture 12's file was renamed from the planned
+(Williams/Tang split from Kan), and Lecture 19 (Bosmeny/Seibel/Caldwell) each produce two files
+because they cover two distinct topics. Lecture 12's file was renamed from the planned
 `enterprise-disruption-levie.md` to `building-for-the-enterprise-levie.md` — the real lecture
 title and content is "Building for the Enterprise" (structural shifts + tactical GTM patterns
-for enterprise software), not primarily a disruption-theory talk.
+for enterprise software), not primarily a disruption-theory talk. Lecture 19's fundraising
+file was renamed from the planned `pitching-seibel-bosmeny-caldwell.md` to
+`pitching-seibel-caldwell.md` — Bosmeny has no role in the pitching/investor-meetings half of
+the lecture; he only covers early-stage sales (the other file), and the pitching half also
+includes Qasar Younis alongside Seibel and Caldwell.
 
 ---
 
