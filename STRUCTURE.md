@@ -33,7 +33,7 @@ founder-skills/
         │   └── counterintuitive-startups-graham.md  ← TODO (Lecture 3, Graham)
         ├── product/
         │   ├── mvp-and-users-cheung.md              ← TODO (Lecture 4, Cheung)
-        │   └── building-for-love-hale.md            ← TODO (Lecture 7, Hale)
+        │   └── building-for-love-hale.md            ← BUILT (Lecture 7, Hale)
         ├── growth/
         │   ├── growth-mechanics-schultz.md          ← TODO (Lecture 6, Schultz)
         │   └── unscalable-things-williams-kan-tang.md ← TODO (Lecture 8, Williams/Kan/Tang)
@@ -108,7 +108,7 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 4 | Adora Cheung | user-research/ | talking-to-users-cheung.md | TODO |
 | 5 | Peter Thiel | market-strategy/ | competition-monopoly-thiel.md | BUILT |
 | 6 | Alex Schultz | growth/ | growth-mechanics-schultz.md | TODO |
-| 7 | Kevin Hale | product/ | building-for-love-hale.md | TODO |
+| 7 | Kevin Hale | product/ | building-for-love-hale.md | BUILT |
 | 8 | Williams/Kan/Tang | growth/ | unscalable-things-williams-kan-tang.md | TODO |
 | 9 | Andreessen/Conway/Conrad | fundraising/ | what-investors-want-andreessen-conway.md | BUILT |
 | 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | TODO |
@@ -137,7 +137,7 @@ Build in this order — most live for an early-stage founder first:
 2. `hiring/team-and-cofounders-altman.md` + `operations/execution-altman.md` — **DONE**
 3. `ideas/idea-and-product-altman.md` + `ideas/why-start-a-startup-moskovitz.md` — **DONE**
 4. `fundraising/what-investors-want-andreessen-conway.md` — **DONE**
-5. `product/building-for-love-hale.md` — feeds directly into what you're building
+5. `product/building-for-love-hale.md` — **DONE**
 6. `user-research/user-interviews-shear.md` — most tactical, immediately usable
 7. `hiring/culture-chesky-lin.md` — relevant once you're hiring beyond 5 people
 8. `growth/unscalable-things-williams-kan-tang.md` — early traction phase
