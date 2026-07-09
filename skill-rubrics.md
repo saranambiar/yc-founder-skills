@@ -163,6 +163,18 @@ Tags are how the skill gets discovered by search and routing. Every named concep
 ### S9: Remove compatibility field
 Not needed. The format works across all tools. The compatibility field adds noise without value.
 
+### S10: Every skill needs a "Where This Can Mislead You" section
+Sourced from the same transcript/analysis pass that produces the Insights section — not
+bolted on afterward. Covers where the framework is time-bound, stage-bound, or can be
+over-applied into paralysis or false modesty. See `lessons/dont-lose-the-self-critique-layer.md`.
+
+### S11: Every skill file ships with a companion HTML page, built in the same pass
+Human-readable lecture notes — insights and quotes, not the AI-facing behavioral rules —
+cloned from the shared template (currently `competition-monopoly-thiel.html`). Building the
+`.md` and treating the `.html` as a later nice-to-have lets them drift out of sync (it
+already happened once, for Thiel, before this rule existed). See `EXTRACTION_RUBRIC.md`
+Step 4 for the required structure and verification checks.
+
 ---
 
 ## Part 5: What makes a skill genuinely useful vs. just well-formatted
@@ -192,3 +204,4 @@ You should be able to load the skill, describe a real situation, and evaluate wh
 |------|-------------|-----|
 | 2026-05-13 | Initial version — combined original rubrics with conversation quality standards from Mirage session analysis and 28-item skill-changes update | First full iteration after real-world testing |
 | 2026-07-09 | Revised C6 to allow the AI to state an earned conclusion plainly instead of only ever asking. Added `NORTH_STAR.md` as the standard every skill (and this rubric) is judged against. | The Mirage-session fix overcorrected into a purely Socratic, never-conclude design across the whole rubric — that doesn't match how actual YC partners talk, and risks feeling like an interrogation instead of advice. See `lessons/socratic-vs-directive-balance.md`. |
+| 2026-07-09 | Added S10 (mandatory "Where This Can Mislead You" section) and S11 (mandatory HTML companion, built in the same pass). Wrote `EXTRACTION_RUBRIC.md` codifying the full process. | Both were true of Thiel's file already but weren't written down as repo-wide requirements — the second lecture (Altman) shipped without an HTML companion at first, confirming the rule needed to be explicit, not assumed. |

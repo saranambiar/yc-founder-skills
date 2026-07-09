@@ -142,6 +142,11 @@ Build in this order — most live for an early-stage founder first:
 content against a real source (YouTube, startupclass.samaltman.com) — don't trust this table
 blindly. It was wrong once already for Lecture 2. See `lessons/verify-lecture-mapping-before-building.md`.
 
+**Full step-by-step process, including the now-mandatory HTML companion:** see
+`EXTRACTION_RUBRIC.md`. Every skill file ships as a pair — `[name].md` (the AI-facing skill)
+and `[name].html` (human-readable lecture notes, cloned from the shared template) — built in
+the same pass so they can't drift out of sync.
+
 ---
 
 ## SKILL.md format
@@ -154,17 +159,22 @@ name:
 description:
 tags:
 source:
-compatibility: claude, chatgpt, cursor, cline, claude-code
 ---
 
 ## Overview
+## Assumptions
 ## Insights
 ## Principles
+## Where This Can Mislead You
 ## Thinking Framework
 ## Action Prompts
 ## What Not To Do
 ## Related Skills
 ```
+
+`Where This Can Mislead You` is mandatory (added after the Thiel/skill-rubrics rebalance —
+see `NORTH_STAR.md` and `EXTRACTION_RUBRIC.md` Step 3). It's easy to drop since it isn't in
+the original CLAUDE.md template; check for it explicitly on every new file.
 
 **Source field format:**
 `"[Lecture title]," [Speaker], CS183B How to Start a Startup, Stanford 2014, [YouTube URL]`
