@@ -43,7 +43,7 @@ founder-skills/
         │   ├── team-and-cofounders-altman.md        ← BUILT (Lecture 2, Altman — team/hiring half)
         │   ├── culture-chesky-lin.md                ← BUILT (Lecture 10, Chesky/Lin)
         │   ├── scaling-teams-collison-silbermann.md ← BUILT (Lecture 11, Collison/Silbermann)
-        │   └── great-founder-hoffman.md             ← TODO (Lecture 13, Hoffman)
+        │   └── great-founder-hoffman.md             ← BUILT (Lecture 13, Hoffman)
         ├── fundraising/
         │   ├── what-investors-want-andreessen-conway.md ← BUILT (Lecture 9, Andreessen/Conway/Conrad)
         │   └── pitching-seibel-bosmeny-caldwell.md  ← TODO (Lecture 19, Seibel/Bosmeny/Caldwell)
@@ -119,7 +119,7 @@ these split into two files because each covers two distinct topics, the same way
 | 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | BUILT |
 | 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | BUILT |
 | 12 | Aaron Levie | market-strategy/ | building-for-the-enterprise-levie.md | BUILT |
-| 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | TODO |
+| 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | BUILT |
 | 14 | Keith Rabois | operations/ | how-to-operate-rabois.md | TODO |
 | 15 | Ben Horowitz | operations/ | how-to-manage-horowitz.md | TODO |
 | 16 | Emmett Shear | user-research/ | user-interviews-shear.md | BUILT |
