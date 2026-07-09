@@ -43,7 +43,7 @@ founder-skills/
         │   ├── scaling-teams-collison-silbermann.md ← TODO (Lecture 11, Collison/Silbermann)
         │   └── great-founder-hoffman.md             ← TODO (Lecture 13, Hoffman)
         ├── fundraising/
-        │   ├── what-investors-want-andreessen-conway.md ← TODO (Lecture 9, Andreessen/Conway)
+        │   ├── what-investors-want-andreessen-conway.md ← BUILT (Lecture 9, Andreessen/Conway/Conrad)
         │   └── pitching-seibel-bosmeny-caldwell.md  ← TODO (Lecture 19, Seibel/Bosmeny/Caldwell)
         ├── sales/
         │   └── early-sales-bosmeny.md               ← TODO (Lecture 19, Bosmeny — sales portion)
@@ -110,7 +110,7 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 6 | Alex Schultz | growth/ | growth-mechanics-schultz.md | TODO |
 | 7 | Kevin Hale | product/ | building-for-love-hale.md | TODO |
 | 8 | Williams/Kan/Tang | growth/ | unscalable-things-williams-kan-tang.md | TODO |
-| 9 | Andreessen/Conway/Conrad | fundraising/ | what-investors-want-andreessen-conway.md | TODO |
+| 9 | Andreessen/Conway/Conrad | fundraising/ | what-investors-want-andreessen-conway.md | BUILT |
 | 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | TODO |
 | 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | TODO |
 | 12 | Aaron Levie | market-strategy/ | enterprise-disruption-levie.md | TODO |
@@ -136,7 +136,7 @@ Build in this order — most live for an early-stage founder first:
 1. `market-strategy/competition-monopoly-thiel.md` — **DONE**
 2. `hiring/team-and-cofounders-altman.md` + `operations/execution-altman.md` — **DONE**
 3. `ideas/idea-and-product-altman.md` + `ideas/why-start-a-startup-moskovitz.md` — **DONE**
-4. `fundraising/what-investors-want-andreessen-conway.md` — closest to investor conversations
+4. `fundraising/what-investors-want-andreessen-conway.md` — **DONE**
 5. `product/building-for-love-hale.md` — feeds directly into what you're building
 6. `user-research/user-interviews-shear.md` — most tactical, immediately usable
 7. `hiring/culture-chesky-lin.md` — relevant once you're hiring beyond 5 people
