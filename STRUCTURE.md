@@ -54,7 +54,7 @@ founder-skills/
         │   ├── how-to-operate-rabois.md             ← BUILT (Lecture 14, Rabois)
         │   ├── how-to-manage-horowitz.md            ← BUILT (Lecture 15, Horowitz)
         │   ├── legal-finance-hr-levy-nathoo.md      ← BUILT (Lecture 18, Nathoo/Levy)
-        │   └── later-stage-altman.md                ← TODO (Lecture 20, Altman)
+        │   └── later-stage-altman.md                ← BUILT (Lecture 20, Altman)
         └── user-research/
             └── user-interviews-shear.md             ← BUILT (Lecture 16, Shear)
 ```
@@ -127,7 +127,7 @@ these split into two files because each covers two distinct topics, the same way
 | 18 | Nathoo/Levy | operations/ | legal-finance-hr-levy-nathoo.md | BUILT |
 | 19 | Seibel/Caldwell/Younis | fundraising/ | pitching-seibel-caldwell.md | BUILT |
 | 19 | Tyler Bosmeny | sales/ | early-sales-bosmeny.md | BUILT |
-| 20 | Sam Altman | operations/ | later-stage-altman.md | TODO |
+| 20 | Sam Altman | operations/ | later-stage-altman.md | BUILT |
 
 Note: Lecture 1 (Altman/Moskovitz), Lecture 2 (Altman), Lecture 4 (Cheung), Lecture 8
 (Williams/Tang split from Kan), and Lecture 19 (Bosmeny/Seibel/Caldwell) each produce two files
