@@ -36,7 +36,8 @@ founder-skills/
         │   └── building-for-love-hale.md            ← BUILT (Lecture 7, Hale)
         ├── growth/
         │   ├── growth-mechanics-schultz.md          ← TODO (Lecture 6, Schultz)
-        │   └── unscalable-things-williams-kan-tang.md ← TODO (Lecture 8, Williams/Kan/Tang)
+        │   ├── unscalable-things-williams-tang.md   ← BUILT (Lecture 8, Williams/Tang — early growth half)
+        │   └── getting-press-kan.md                 ← BUILT (Lecture 8, Kan — press half)
         ├── hiring/
         │   ├── team-and-cofounders-altman.md        ← BUILT (Lecture 2, Altman — team/hiring half)
         │   ├── culture-chesky-lin.md                ← BUILT (Lecture 10, Chesky/Lin)
@@ -109,7 +110,8 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 5 | Peter Thiel | market-strategy/ | competition-monopoly-thiel.md | BUILT |
 | 6 | Alex Schultz | growth/ | growth-mechanics-schultz.md | TODO |
 | 7 | Kevin Hale | product/ | building-for-love-hale.md | BUILT |
-| 8 | Williams/Kan/Tang | growth/ | unscalable-things-williams-kan-tang.md | TODO |
+| 8 | Williams/Tang | growth/ | unscalable-things-williams-tang.md | BUILT |
+| 8 | Justin Kan | growth/ | getting-press-kan.md | BUILT |
 | 9 | Andreessen/Conway/Conrad | fundraising/ | what-investors-want-andreessen-conway.md | BUILT |
 | 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | BUILT |
 | 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | TODO |
@@ -124,8 +126,9 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 19 | Tyler Bosmeny | sales/ | early-sales-bosmeny.md | TODO |
 | 20 | Sam Altman | operations/ | later-stage-altman.md | TODO |
 
-Note: Lecture 1 (Altman/Moskovitz), Lecture 2 (Altman), Lecture 4 (Cheung), and Lecture 19
-(Bosmeny) each produce two files because they cover two distinct topics.
+Note: Lecture 1 (Altman/Moskovitz), Lecture 2 (Altman), Lecture 4 (Cheung), Lecture 8
+(Williams/Tang split from Kan), and Lecture 19 (Bosmeny) each produce two files because they
+cover two distinct topics.
 
 ---
 
@@ -140,7 +143,7 @@ Build in this order — most live for an early-stage founder first:
 5. `product/building-for-love-hale.md` — **DONE**
 6. `user-research/user-interviews-shear.md` — **DONE**
 7. `hiring/culture-chesky-lin.md` — **DONE**
-8. `growth/unscalable-things-williams-kan-tang.md` — early traction phase
+8. `growth/unscalable-things-williams-tang.md` + `growth/getting-press-kan.md` — **DONE**
 9. Everything else in order
 
 **Before pulling a transcript for the next lecture:** verify its actual title, speakers, and
