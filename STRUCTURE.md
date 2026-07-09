@@ -39,7 +39,7 @@ founder-skills/
         │   └── unscalable-things-williams-kan-tang.md ← TODO (Lecture 8, Williams/Kan/Tang)
         ├── hiring/
         │   ├── team-and-cofounders-altman.md        ← BUILT (Lecture 2, Altman — team/hiring half)
-        │   ├── culture-chesky-lin.md                ← TODO (Lecture 10, Chesky/Lin)
+        │   ├── culture-chesky-lin.md                ← BUILT (Lecture 10, Chesky/Lin)
         │   ├── scaling-teams-collison-silbermann.md ← TODO (Lecture 11, Collison/Silbermann)
         │   └── great-founder-hoffman.md             ← TODO (Lecture 13, Hoffman)
         ├── fundraising/
@@ -111,7 +111,7 @@ distinct topics, the same way Lecture 4 and Lecture 19 do.
 | 7 | Kevin Hale | product/ | building-for-love-hale.md | BUILT |
 | 8 | Williams/Kan/Tang | growth/ | unscalable-things-williams-kan-tang.md | TODO |
 | 9 | Andreessen/Conway/Conrad | fundraising/ | what-investors-want-andreessen-conway.md | BUILT |
-| 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | TODO |
+| 10 | Alfred Lin, Brian Chesky | hiring/ | culture-chesky-lin.md | BUILT |
 | 11 | Collison/Silbermann | hiring/ | scaling-teams-collison-silbermann.md | TODO |
 | 12 | Aaron Levie | market-strategy/ | enterprise-disruption-levie.md | TODO |
 | 13 | Reid Hoffman | hiring/ | great-founder-hoffman.md | TODO |
@@ -139,7 +139,7 @@ Build in this order — most live for an early-stage founder first:
 4. `fundraising/what-investors-want-andreessen-conway.md` — **DONE**
 5. `product/building-for-love-hale.md` — **DONE**
 6. `user-research/user-interviews-shear.md` — **DONE**
-7. `hiring/culture-chesky-lin.md` — relevant once you're hiring beyond 5 people
+7. `hiring/culture-chesky-lin.md` — **DONE**
 8. `growth/unscalable-things-williams-kan-tang.md` — early traction phase
 9. Everything else in order
 
